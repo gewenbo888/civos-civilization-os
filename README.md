@@ -6,9 +6,9 @@ Part of the **civos** ecosystem at https://civos.psyverse.fun — ten interlocki
 
 ## Links
 
-- **Live:** https://civilization-os.psyverse.fun
+- **Live:** https://civos-civilization-os.psyverse.fun
 - **Hub:** https://civos.psyverse.fun
-- **GitHub:** https://github.com/gewenbo888/civilization-os
+- **GitHub:** https://github.com/gewenbo888/civos-civilization-os
 
 ## Stack
 
